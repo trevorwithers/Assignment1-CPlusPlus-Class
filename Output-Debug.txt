@@ -1,0 +1,15 @@
+﻿'Assignment1.exe' (Win32): Loaded 'C:\Users\withe\OneDrive - St. Lawrence College\Documents\School\St. Lawrence\Year 1\Semester 1\Comp 1100\Assignment1\Debug\Assignment1.exe'. Symbols loaded.
+'Assignment1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Assignment1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Assignment1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Assignment1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Assignment1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Assignment1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x5de8 has exited with code 0 (0x0).
+'Assignment1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'Assignment1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'Assignment1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Assignment1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+The thread 0x5168 has exited with code 0 (0x0).
+The thread 0x4c44 has exited with code 0 (0x0).
+The program '[796] Assignment1.exe' has exited with code 0 (0x0).
